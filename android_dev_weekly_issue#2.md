@@ -3,7 +3,7 @@ layout: post
 title: "Android开发周报 Issue#2"
 date: 2014-1012 10:48:14 +0800
 comments: true
-categories: 
+categories: AndroidDevWeekly
 ---
 
 #Android开发周报 Issue#2
