@@ -54,15 +54,17 @@ categories: AndroidDevWeekly
 
 1. [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui)
 
-	A curated list of awesome Android UI/UX libraries https://twitter.com/wasabeef_jp
-
+	一些 Android UI/UX 库的集合列表。
+	
 1. [android-native-dependencies](https://github.com/nhachicha/android-native-dependencies)
 
-	Gradle plugin for resolving and downloading Android native dependencies (.so)
-
+	一个解析和下载Android native 依赖的Gradle插件。
+	
 1. [ErrorView](https://github.com/xiprox/ErrorView)
 
-	A custom view that displays an error image, a title, and a subtitle given an HTTP status code.
+	一个用来显示错误信息的自定义View，包含图标、主标题、自标题和重试按钮。
+	
+	![image](https://raw.githubusercontent.com/xiprox/ErrorView/master/graphics/screenshots/ss_01.png)
 
 1. [DraggableFlagView](https://github.com/wangjiegulu/DraggableFlagView)
 
