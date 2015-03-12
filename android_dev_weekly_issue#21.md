@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Android开发技术周报 Issue#20"
+title: "Android开发技术周报 Issue#21"
 date: 2015-03-02 13:50:42 +0800
 comments: true
 categories: AndroidDevWeekly
