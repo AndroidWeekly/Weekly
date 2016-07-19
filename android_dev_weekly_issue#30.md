@@ -82,4 +82,4 @@ categories: AndroidDevWeekly
 	年初时 Google 才刚开放三方 App 与 Google Now 的协作，现在，将一次把支持的 App 数量从原本的 40 个增加到超过 70 个 ，我们也看到了 Spotify、ABC News、RunKeeper、Jawbone 与 OpenTable 都在行列当中。
 			
 ----
-版权声明：欢迎自由转载-非商用-非衍生-保持署名 | [Creative Commons BY-NC-ND 3.0](http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh)
+> 版权声明：欢迎自由转载-非商用-非衍生-保持署名 | [Creative Commons BY-NC-ND 4.0](http://creativecommons.org/licenses/by-nc-nd/4.0/)

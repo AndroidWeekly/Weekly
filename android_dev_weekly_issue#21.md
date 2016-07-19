@@ -157,4 +157,4 @@ Updated launcher icons, now packaged as mipmap resources
 	2014年，Facebook推出了新闻阅读应用Paper，诸多交互细节与炫酷动效启动了界面设计的新时代，Google的Material Design更是将移动动效提升到了app基础体验环节的高度。盘点如今体验优秀的移动app，精彩的动效层出不穷，放眼望去，聚集UI设计大神的dribbble、behance等地，出彩的动效更好的诠释了流畅细腻的交互操作……如果说移动体验设计师还能在传统的交互视觉之上提升app的可用性，移动动效必定是最重要的方式之一。
 			
 ----
-版权声明：欢迎自由转载-非商用-非衍生-保持署名 | [Creative Commons BY-NC-ND 3.0](http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh)
+> 版权声明：欢迎自由转载-非商用-非衍生-保持署名 | [Creative Commons BY-NC-ND 4.0](http://creativecommons.org/licenses/by-nc-nd/4.0/)

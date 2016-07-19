@@ -114,4 +114,4 @@ categories: AndroidDevWeekly
 	Google Play 商店和苹果 App Store 最大的区别就是前者的应用不用审核。不过现在，Google 方面决定结束 Play 商店放养的状态。周二针对开发者的一篇博客显示，Google 将针对年龄组对游戏和应用进行评级，主要是为了适应不同年龄段人群的需求和不同地区的监管政策。
 			
 ----
-版权声明：欢迎自由转载-非商用-非衍生-保持署名 | [Creative Commons BY-NC-ND 3.0](http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh)
+> 版权声明：欢迎自由转载-非商用-非衍生-保持署名 | [Creative Commons BY-NC-ND 4.0](http://creativecommons.org/licenses/by-nc-nd/4.0/)

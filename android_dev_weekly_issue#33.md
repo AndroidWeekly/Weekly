@@ -152,4 +152,4 @@ categories: AndroidDevWeekly
 	随着移动互联网的不断蓬勃发展，更多用户在移动设备上使用音乐服务，QQ音乐移动客户端使用用户数也在屡创新高，QQ音乐为了达到更好的用户体验并实现用户的新需求，原有的框架已经不能优雅的实现新需求和优先。如何优雅的实现各种需求并在性能和稳定性得到提高，QQ音乐Android开发团队通过以下的篇章给大家分享QQ音乐架构演进带来的痛与乐。 
 			
 ----
-版权声明：欢迎自由转载-非商用-非衍生-保持署名 | [Creative Commons BY-NC-ND 3.0](http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh)
+> 版权声明：欢迎自由转载-非商用-非衍生-保持署名 | [Creative Commons BY-NC-ND 4.0](http://creativecommons.org/licenses/by-nc-nd/4.0/)

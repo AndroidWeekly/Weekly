@@ -99,4 +99,4 @@ categories: AndroidDevWeekly
 	不同于传统 Shell 书，本书未花大篇幅介绍 Shell 语法，而以面向“对象”的方式引入大量实例介绍 Shell 日常操作，“对象” 涵盖数值、逻辑值、字符串、文件、进程、文件系统等。这样有助于学以致用中加强兴趣。也可作为 Shell 编程索引，随时检索。 — 泰晓科技
 
 ----
-版权声明：欢迎自由转载-非商用-非衍生-保持署名 | [Creative Commons BY-NC-ND 3.0](http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh)
+> 版权声明：欢迎自由转载-非商用-非衍生-保持署名 | [Creative Commons BY-NC-ND 4.0](http://creativecommons.org/licenses/by-nc-nd/4.0/)

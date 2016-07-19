@@ -63,4 +63,4 @@ categories: AndroidDevWeekly
 	4.4以下的webview会将url中的反斜杠\强制转换成斜杠/，也是醉了，解决方案就是先escape以下，Java中再用URI.decode获取原来的url。可以参考[@hi大头鬼hi](http://stackoverflow.com/questions/19911226/android-webview-4-4-converts-custom-url/30057785#30057785)在StackOverFlow的回答。
 			
 ----
-版权声明：欢迎自由转载-非商用-非衍生-保持署名 | [Creative Commons BY-NC-ND 3.0](http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh)
+> 版权声明：欢迎自由转载-非商用-非衍生-保持署名 | [Creative Commons BY-NC-ND 4.0](http://creativecommons.org/licenses/by-nc-nd/4.0/)

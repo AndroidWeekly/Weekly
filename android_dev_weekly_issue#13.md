@@ -158,4 +158,4 @@ categories: AndroidDevWeekly
 	都说产品设计师的设计可以用 Axure + Sketch + Origami三者联动，完成原型、视觉和动效的一条龙工作，前一段时间也抽空学习了一下 Quartz Composer（以下简称 QC） + Origami，虽然有一定的上手难度，但是确实能够做出非常逼真的效果。
 	
 ----
-版权声明：欢迎自由转载-非商用-非衍生-保持署名 | [Creative Commons BY-NC-ND 3.0](http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh)
+> 版权声明：欢迎自由转载-非商用-非衍生-保持署名 | [Creative Commons BY-NC-ND 4.0](http://creativecommons.org/licenses/by-nc-nd/4.0/)

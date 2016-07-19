@@ -181,4 +181,4 @@ categories: AndroidDevWeekly
 	一款增强绘图功能的AI插件，这个插件能轻易解决直线和圆、圆与圆的精准相切[外切内切]等问题。
 	
 ----
-版权声明：欢迎自由转载-非商用-非衍生-保持署名 | [Creative Commons BY-NC-ND 3.0](http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh)
+> 版权声明：欢迎自由转载-非商用-非衍生-保持署名 | [Creative Commons BY-NC-ND 4.0](http://creativecommons.org/licenses/by-nc-nd/4.0/)

@@ -93,4 +93,4 @@ categories: AndroidDevWeekly
 	谷歌今天宣布将为Android Wear推出重大更新，让Android手表使用更加容易。目前大多数Android智能手表默认都采用省电模式的表盘界面，但是，有时用户需要默认获得其它信息，Android Wear更新之后，现在将允许用户选择默认始终显示信息的应用程序，比如地图位置或者购物清单等。
 			
 ----
-版权声明：欢迎自由转载-非商用-非衍生-保持署名 | [Creative Commons BY-NC-ND 3.0](http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh)
+> 版权声明：欢迎自由转载-非商用-非衍生-保持署名 | [Creative Commons BY-NC-ND 4.0](http://creativecommons.org/licenses/by-nc-nd/4.0/)

@@ -114,4 +114,4 @@ categories: AndroidDevWeekly
 	本次课程将带领大家了解Android中对图像色彩的处理和分析方法，并通过实例向大家演示市面上常见的图像处理特效的实现方法。
 			
 ----
-版权声明：欢迎自由转载-非商用-非衍生-保持署名 | [Creative Commons BY-NC-ND 3.0](http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh)
+> 版权声明：欢迎自由转载-非商用-非衍生-保持署名 | [Creative Commons BY-NC-ND 4.0](http://creativecommons.org/licenses/by-nc-nd/4.0/)

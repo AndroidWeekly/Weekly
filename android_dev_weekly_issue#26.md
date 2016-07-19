@@ -146,4 +146,4 @@ categories: AndroidDevWeekly
 	Google 让 Chrome OS 运行 Android app 的想法早已有之，并在去年的 9 月份付诸行动，推出了 [App Runtime for Chrome](https://developer.chrome.com/apps/app_runtime)，简称 ARC，是一个运行在 Chrome OS 上的 Android 虚拟机，它本身是一个 Chrome Web 商店的应用程序，名为 [ARC Welder](https://chrome.google.com/webstore/detail/arc-welder/emfinbmielocnlhgmfkkmkngdoccbadn)。
 			
 ----
-版权声明：欢迎自由转载-非商用-非衍生-保持署名 | [Creative Commons BY-NC-ND 3.0](http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh)
+> 版权声明：欢迎自由转载-非商用-非衍生-保持署名 | [Creative Commons BY-NC-ND 4.0](http://creativecommons.org/licenses/by-nc-nd/4.0/)

@@ -108,4 +108,4 @@ categories: AndroidDevWeekly
 	一个知乎上问答，可以作为自学指导，适用于完全不在相关圈子里的外行入门，可以通过这个方法找到一份初级设计师工作或申请到交互设计专业学校。但效果完全看个人天赋和水平了。
 
 ----
-版权声明：欢迎自由转载-非商用-非衍生-保持署名 | [Creative Commons BY-NC-ND 3.0](http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh3)
+> 版权声明：欢迎自由转载-非商用-非衍生-保持署名 | [Creative Commons BY-NC-ND 4.0](http://creativecommons.org/licenses/by-nc-nd/4.0/)

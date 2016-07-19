@@ -112,4 +112,4 @@ categories: AndroidDevWeekly
 	目前 GDG 字幕组有来自国内外的翻译志愿者 30 余位，翻译了 Udacity 以及 GDS 频道等众多英文技术视频，目前我们也在[招募更多翻译志愿者](http://www.gfansub.com/join_translator)，如果您与我们一样，希望为 Google 的技术，开放开源的技术贡献一份力量的话，请加入我们，我们已经等了很久了
 
 ----
-版权声明：欢迎自由转载-非商用-非衍生-保持署名 | [Creative Commons BY-NC-ND 3.0](http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh)
+> 版权声明：欢迎自由转载-非商用-非衍生-保持署名 | [Creative Commons BY-NC-ND 4.0](http://creativecommons.org/licenses/by-nc-nd/4.0/)

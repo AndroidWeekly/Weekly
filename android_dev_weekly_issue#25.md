@@ -123,4 +123,4 @@ categories: AndroidDevWeekly
 	刚刚宣布完成8000万美元 C轮融资的 Cyanogen，即将成为智能手机软件生态里新的新搅局者。吃着 Android 开源的奶长大，Cyanogen 已经发展为世界上最大的第三方 Android 操作系统研发公司。这家公司过去开发和维护着世界上装机量最大的Android 定制 ROM之一的CyanogenMod。
 			
 ----
-版权声明：欢迎自由转载-非商用-非衍生-保持署名 | [Creative Commons BY-NC-ND 3.0](http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh)
+> 版权声明：欢迎自由转载-非商用-非衍生-保持署名 | [Creative Commons BY-NC-ND 4.0](http://creativecommons.org/licenses/by-nc-nd/4.0/)

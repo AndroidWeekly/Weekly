@@ -91,4 +91,4 @@ categories: AndroidDevWeekly
 	Icons4android是一套极具人气的在线资源集合，能够帮助我们为自己的Android应用程序找到理想的图标素材。这些图标皆可以单一zip压缩文件的形式下载，且提供五种不同尺寸以及十二种配色方案。
 
 ----
-版权声明：欢迎自由转载-非商用-非衍生-保持署名 | [Creative Commons BY-NC-ND 3.0](http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh)
+> 版权声明：欢迎自由转载-非商用-非衍生-保持署名 | [Creative Commons BY-NC-ND 4.0](http://creativecommons.org/licenses/by-nc-nd/4.0/)

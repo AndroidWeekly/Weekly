@@ -112,4 +112,4 @@ categories: AndroidDevWeekly
 	用户手中看到的产品界面，并非设计师呕心沥血创作的效果图，而是一个个单独的切图经由开发同学技术实现。切图作为设计师与开发者之间的桥梁，它的作用很关键，合适的切图、精准的位置可以最大限度的还原效果图的设计，精妙的切图更会有事半功倍的效果哦！	
 	
 ----
-版权声明：欢迎自由转载-非商用-非衍生-保持署名 | [Creative Commons BY-NC-ND 3.0](http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh)
+> 版权声明：欢迎自由转载-非商用-非衍生-保持署名 | [Creative Commons BY-NC-ND 4.0](http://creativecommons.org/licenses/by-nc-nd/4.0/)

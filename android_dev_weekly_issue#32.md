@@ -146,4 +146,4 @@ categories: AndroidDevWeekly
 	我们曾经在去年末 Gmail 访问异常和上个月的 Google Play VP 采访中提到，Google Play Service 部分入华的计划确实存在，只剩下时间问题。Google 中国相关的工作人员也曾经告诉 36Kr，Sundar Pichai 曾经在今年的 MWC 期间表达过 Play 入华的意愿，不过需要注意的是：Google Play(Services)  此前从未正式在中国区开战业务，所以谈不上“回归”，称为“进入”中国会更合适。
 			
 ----
-版权声明：欢迎自由转载-非商用-非衍生-保持署名 | [Creative Commons BY-NC-ND 3.0](http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh)
+> 版权声明：欢迎自由转载-非商用-非衍生-保持署名 | [Creative Commons BY-NC-ND 4.0](http://creativecommons.org/licenses/by-nc-nd/4.0/)

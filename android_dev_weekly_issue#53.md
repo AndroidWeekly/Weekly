@@ -144,4 +144,4 @@ categories: AndroidDevWeekly
 	让我们一起来看看扁平化设计和Material design到底是如何起作用并渐渐引领如今这些风潮的。谷歌推出的设计语言。谷歌表示，这种设计语言旨在为手机、平板电脑和“其他平台”提供更一致、更广泛的“外观和感觉”。
 
 ----
-版权声明：欢迎自由转载-非商用-非衍生-保持署名 | [Creative Commons BY-NC-ND 3.0](http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh3)
+> 版权声明：欢迎自由转载-非商用-非衍生-保持署名 | [Creative Commons BY-NC-ND 4.0](http://creativecommons.org/licenses/by-nc-nd/4.0/)

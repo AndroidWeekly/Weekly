@@ -112,4 +112,4 @@ categories: AndroidDevWeekly
 	兰贝壳儿是一个辅助安卓开发的 eclipse 插件工具。主要提供三个功能：自动打包多渠道包的apk、项目工程文件或文件夹在资源管理器中打开、工程依赖的其他jar包管理（使用maven的dependency格式）。
 			
 ----
-版权声明：欢迎自由转载-非商用-非衍生-保持署名 | [Creative Commons BY-NC-ND 3.0](http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh)
+> 版权声明：欢迎自由转载-非商用-非衍生-保持署名 | [Creative Commons BY-NC-ND 4.0](http://creativecommons.org/licenses/by-nc-nd/4.0/)

@@ -183,4 +183,4 @@ RV、2.适配多种 Item View 类型写法、3.mRecyclerView.setOnScrollListener
 	首先花一小段文字来重申下 mac 和 win 的快捷键问题。两个操作系统下的 PS 是一样的，只不过 mac 下的快捷键 Command 在 win 下换成了 Ctrl，Option 换成了 Alt ，其他是没有区别的。本文所提的技巧对两个平台都是通用的！
 			
 ----
-版权声明：欢迎自由转载-非商用-非衍生-保持署名 | [Creative Commons BY-NC-ND 3.0](http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh)
+> 版权声明：欢迎自由转载-非商用-非衍生-保持署名 | [Creative Commons BY-NC-ND 4.0](http://creativecommons.org/licenses/by-nc-nd/4.0/)

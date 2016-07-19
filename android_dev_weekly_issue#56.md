@@ -103,4 +103,4 @@ categories: AndroidDevWeekly
 	从2014年以工程师身份踏入互联网行业以来，无论是平时和一线研发工程师交流抑或是面试应聘者，经常遇到工程师或者设计师朋友想转行做产品经理的情况；碰巧此时现在已接近2015年底，再过两个月便是我从一名Android研发工程师转为一名移动产品经理年满一年的日子，遂决定在这个时刻写下这个系列的文章和大家分享一名90后工程师转为移动产品经理这一年中的所思所想。
 
 ----
-版权声明：欢迎自由转载-非商用-非衍生-保持署名 | [Creative Commons BY-NC-ND 3.0](http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh3)
+> 版权声明：欢迎自由转载-非商用-非衍生-保持署名 | [Creative Commons BY-NC-ND 4.0](http://creativecommons.org/licenses/by-nc-nd/4.0/)

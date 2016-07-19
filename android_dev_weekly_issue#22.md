@@ -127,4 +127,4 @@ categories: AndroidDevWeekly
 	自从material design发布以来，可乐橙就在一直收集相关素材与资源，研究别人的作品。这套设计风格非常鲜明，带有浓郁的Google式严谨和理性哲学，深得我心。实际上，光是研究素材和别人作品，就能发现一些明显的规律，做出几分相似的设计。这样半吊子的状态一直保持到现在，最近有时间通读一遍官方的设计指南，终于有了深入的理解。在朋友的项目中实践了一番，虽然很抱歉拿朋友开刀，不过他对整体效果似乎还算满意。
 			
 ----
-版权声明：欢迎自由转载-非商用-非衍生-保持署名 | [Creative Commons BY-NC-ND 3.0](http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh)
+> 版权声明：欢迎自由转载-非商用-非衍生-保持署名 | [Creative Commons BY-NC-ND 4.0](http://creativecommons.org/licenses/by-nc-nd/4.0/)

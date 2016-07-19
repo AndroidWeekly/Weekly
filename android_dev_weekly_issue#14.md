@@ -87,4 +87,4 @@ categories: AndroidDevWeekly
 	这是一个大屏手机的时代。强调这件事情的意义在于，这已经成为事实。Medium上存在一份个人统计。在过去7年，新上市的手机屏幕尺寸越来越大。
 		
 ----
-版权声明：欢迎自由转载-非商用-非衍生-保持署名 | [Creative Commons BY-NC-ND 3.0](http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh)
+> 版权声明：欢迎自由转载-非商用-非衍生-保持署名 | [Creative Commons BY-NC-ND 4.0](http://creativecommons.org/licenses/by-nc-nd/4.0/)

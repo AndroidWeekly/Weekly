@@ -154,4 +154,4 @@ categories: AndroidDevWeekly
 	在 切图标记外挂 Assistor PS 深入解读（上）中，我给大家介绍了即将免费的切图标记外挂 Assistor PS 强大的标记功能，然后，这个神器的功能仅仅如此？本文将为介绍 Assistor PS 其他丧心病狂的功能：创建引导框，一键全自动切图，创建参考线，单位转换器，取色器，圆角矩形转换，按照固定间隔复制图层等。
 			
 ----
-版权声明：欢迎自由转载-非商用-非衍生-保持署名 | [Creative Commons BY-NC-ND 3.0](http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh)
+> 版权声明：欢迎自由转载-非商用-非衍生-保持署名 | [Creative Commons BY-NC-ND 4.0](http://creativecommons.org/licenses/by-nc-nd/4.0/)

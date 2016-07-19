@@ -114,4 +114,4 @@ categories: AndroidDevWeekly
 	从千团大战胜出的美团，如今在O2O的垂直业务上阔步前进，王兴更是提出了2015年要建平台、建生态。这意味着除去主营业务，美团团购客户端还需要接入电影选座、外卖、酒店订房等垂直业务，由于业务本身的千差万别，产品设计也是各不相同，导致代码复用很苦难，而且这些业务往往还不是同一个团队维护的。那么在平台化过程中，美团的移动开发团队是如何解决技术上、团队上、业务上的困难的呢？
 			
 ----
-版权声明：欢迎自由转载-非商用-非衍生-保持署名 | [Creative Commons BY-NC-ND 3.0](http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh)
+> 版权声明：欢迎自由转载-非商用-非衍生-保持署名 | [Creative Commons BY-NC-ND 4.0](http://creativecommons.org/licenses/by-nc-nd/4.0/)
